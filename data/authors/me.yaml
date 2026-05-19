@@ -1,0 +1,119 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Vedant Sundar
+  given: Vedant
+  family: Sundar
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns: he/him
+postnominals:
+status:
+  # icon: "☕️"
+role: First-Year Undergraduate Student
+bio: |
+  I'm an incoming undergraduatestudent at the California Institute of Technology (Caltech), reading Physics and Mathematics.
+  My current research interests include Combinatorics and Theoretical Condensed Matter Physics.
+
+# affiliations:
+#   - name: Meta AI
+#     url: https://ai.meta.com/
+
+links:
+  - icon: at-symbol
+    url: mailto:vedantsundar1@gmail.com
+    label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/example/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=example
+  # - icon: academicons/orcid
+    # url: https://orcid.org/0000-0002-1825-0097
+
+# interests:
+#   - Large Language Models
+#   - Computer Vision
+#   - Reinforcement Learning
+#   - AI Ethics
+
+# education:
+#   - degree: BS Physics and Mathematics
+#     institution: California Institute of Tehnology
+#     start: 2015-09-01
+#     end: 2019-06-30
+#     summary: |
+#       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+#     button:
+#       text: Download dissertation
+#       url: /resume.pdf
+#       icon: hero/arrow-down-tray
+#   - degree: MS Computer Science
+#     institution: Carnegie Mellon University
+#     start: 2013-09-01
+#     end: 2015-05-31
+#   - degree: BS Computer Science
+#     institution: MIT
+#     start: 2009-09-01
+#     end: 2013-05-31
+
+experience:
+  - role: Federal Associate Research Intern
+    org: National Institute of Standards and Technology (NIST)
+    start: 2025-06-20
+    end: 2025-08-10
+    summary: |
+      Project title: “Finite-Element Computational Analysis of an Ultrasonic Detection Array
+      Setup for Ultra-High Dose Rate (FLASH) Measurements and Absolute Dosimetry.”
+      Developed next-generation Dosimetry standards for medical diagnostic imaging and
+      radiotherapy, specifically in the novel cancer treatment FLASH Radiotherapy.
+      Contributions spotlighted at the AAPM (American Association of Physicists in Medicine)
+      67th Annual Meeting and Exhibition in 2025.
+    button:
+      text: View portfolio
+      url: /
+      icon: hero/arrow-down-tray
+  - role: Student Researcher for NSF-Grant No. 1741677 Project
+    org: University of North Texas
+    start: 2024-06-01
+    end: 2024-07-31
+    summary: |
+      Project title: “Ferrofluid Ultrasound Isolation Device Using Remotely-Induced Anderson
+      Localization.”
+      Designed a custom Ferrofluidic Waveguide apparatus with a Topological Defect to
+      physically realize Anderson Localization (acoustic isolation theory) for the mitigation of
+      tinnitus in hearing aids via COMSOL® Multiphysics wave propagation simulations. Co-
+      authored paper currently in preparation.
+
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - label: Python
+#         level: 5
+#       - label: Machine Learning
+#         level: 5
+#       - label: Cloud Computing
+#         level: 4
+#   - name: Research & Communication
+#     items:
+#       - label: Academic Writing
+#         level: 5
+#       - label: Conference Presentations
+#         level: 4
+#       - label: Grant Proposals
+#         level: 4
+
+# languages:
+#   - name: English
+#     level: 5
+#     label: Native
+#   - name: Spanish
+#     level: 4
+#     label: Fluent
+
+# awards:
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy
