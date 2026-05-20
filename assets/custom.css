@@ -1,4 +1,4 @@
-body {
+/* body {
   font-family: "CMU Sans Serif", sans-serif !important;
 }
 
@@ -13,7 +13,7 @@ code, pre {
 /* Remove all-caps from theme */
 * {
   text-transform: none !important;
-}
+} */
 .site-footer {
   padding-top: 0.3rem !important;
   padding-bottom: 0.3rem !important;
