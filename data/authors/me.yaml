@@ -5,13 +5,13 @@ name:
   display: Vedant Sundar
   given: Vedant
   family: Sundar
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  # alternate: ''  # Example: 王伟
+  # pronunciation: ''  # Example: Wáng Wěi
+  # pronouns: he/him
 postnominals:
-status:
-  # icon: "☕️"
-role: First-Year Undergraduate Student
+# status:
+#   # icon: "☕️"
+# role: First-Year Undergraduate Student
 bio: |
   I'm an incoming undergraduate student at the California Institute of Technology (Caltech), reading Physics and Mathematics.
   My current research interests include Combinatorics and Theoretical Condensed Matter Physics.
