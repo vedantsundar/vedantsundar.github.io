@@ -4,8 +4,6 @@ title: ''
 summary: ''
 date: 2022-10-24
 type: landing
-header:
-  style: navbar
 
 sections:
   - block: resume-biography-3
@@ -29,10 +27,10 @@ sections:
 
       # Name heading sizing to accommodate long or short names
       name:
-        size: lg # Options: xs, sm, md, lg (default), xl
+        size: md # Options: xs, sm, md, lg (default), xl
 
       # Avatar customization
       avatar:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: square # Options: circle (default), square, rounded
+        shape: rounded # Options: circle (default), square, rounded
 ---
