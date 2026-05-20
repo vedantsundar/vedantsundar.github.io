@@ -65,24 +65,24 @@ jobs:
     secrets: inherit
 
   # Deploy website to GitHub Pages hosting (only if configured)
-deploy:
-  needs: [config, build]
-  if: needs.config.outputs.deploy-host == 'github-pages'
-  permissions:
-    pages: write
-    id-token: write
-  environment:
-    name: github-pages
-    url: ${{ steps.deployment.outputs.page_url }}
-  runs-on: ubuntu-latest
-  steps:
-    - name: Download artifact
-      uses: actions/download-artifact@v4
-      with:
-        name: github-pages
-        path: .
+  deploy:
+    needs: [config, build]
+    if: needs.config.outputs.deploy-host == 'github-pages'
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: .
 
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
 
