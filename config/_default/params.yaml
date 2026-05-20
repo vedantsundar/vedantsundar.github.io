@@ -74,7 +74,7 @@ hugoblox:
   # Spacing and shape tokens
   # ────────────────────────────────────────────────────────────────────────────
   layout:
-    custom_css: ["custom.css"]
+    # custom_css: ["custom.css"]
     # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
     radius: "md"
     # Spacing density: 'compact', 'comfortable', or 'spacious'
