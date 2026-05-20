@@ -1,0 +1,18 @@
+<section class="container py-10 text-center">
+
+  <!-- Avatar -->
+  {{ with .Params.avatar }}
+  <img src="{{ . | relURL }}" class="bio-avatar mb-6" alt="Profile photo">
+  {{ end }}
+
+  <!-- Name -->
+  {{ with .Params.name }}
+  <h1 class="bio-name mb-4">{{ . }}</h1>
+  {{ end }}
+
+  <!-- Bio text -->
+  <div class="bio-text mx-auto">
+    {{ .Content }}
+  </div>
+
+</section>
