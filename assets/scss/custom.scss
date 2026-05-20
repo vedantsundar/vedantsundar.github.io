@@ -1,0 +1,24 @@
+/* Force hamburger menu on all screen sizes */
+.navbar-toggler {
+  display: block !important;
+}
+
+.navbar-collapse {
+  display: none !important;
+}
+
+.navbar-collapse.show {
+  display: block !important;
+}
+/* Animate hamburger into X */
+.navbar-toggler-icon {
+  transition: transform 0.3s ease;
+}
+
+.navbar-toggler.collapsed .navbar-toggler-icon {
+  transform: rotate(0deg);
+}
+
+.navbar-toggler:not(.collapsed) .navbar-toggler-icon {
+  transform: rotate(90deg);
+}
