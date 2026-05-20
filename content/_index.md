@@ -6,7 +6,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-biography-1
+  - block: "Biography"
     # content:
     #   # Choose a user profile to display (a folder name within `content/authors/`)
     #   username: me
