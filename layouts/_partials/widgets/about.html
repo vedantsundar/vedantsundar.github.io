@@ -1,0 +1,18 @@
+<section class="about-widget">
+  <div class="container text-center">
+
+    <!-- Photo -->
+    {{ with .Params.image }}
+    <img src="{{ . | relURL }}" class="about-photo mb-3" alt="Profile photo">
+    {{ end }}
+
+    <!-- Name -->
+    <h1 class="about-name mb-3">{{ .Params.name }}</h1>
+
+    <!-- Bio -->
+    <div class="about-bio">
+      {{ .Content }}
+    </div>
+
+  </div>
+</section>
