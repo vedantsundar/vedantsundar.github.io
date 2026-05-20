@@ -61,7 +61,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "minimal"
+    pack: "academic"
     # font_family:
     #   base: "CMU Serif"
     #   heading: "CMU Serif"
