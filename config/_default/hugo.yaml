@@ -6,7 +6,8 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'Vedant Sundar | Personal Website'
 # Website URL
-baseURL: 'https://vedantsundar.github.io/'
+baseURL: "https://vedantsundar.github.io/"
+uglyURLs: false
 
 ############################
 ## LANGUAGE
