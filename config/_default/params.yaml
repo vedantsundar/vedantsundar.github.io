@@ -61,12 +61,12 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: ""
-    font_family:
-      base: "CMU Serif"
-      heading: "CMU Serif"
-      monospace: "CMU Typewriter Text"
-    font_url: "https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css"
+    pack: "academic"
+    # font_family:
+    #   base: "CMU Serif"
+    #   heading: "CMU Serif"
+    #   monospace: "CMU Typewriter Text"
+    # font_url: "https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css"
 
 
   # ────────────────────────────────────────────────────────────────────────────
