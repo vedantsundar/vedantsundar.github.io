@@ -7,6 +7,7 @@
 hugoblox:
   schema: "2.0"
   template: false
+  demo: false
   # ────────────────────────────────────────────────────────────────────────────
   # IDENTITY
   # Site-level branding (for people/profiles, use the author system in content/authors/)
@@ -73,7 +74,7 @@ hugoblox:
   # Spacing and shape tokens
   # ────────────────────────────────────────────────────────────────────────────
   layout:
-    custom_css: ["css/custom.css"]
+    custom_css: ["custom.css"]
     # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
     radius: "md"
     # Spacing density: 'compact', 'comfortable', or 'spacious'
