@@ -1,0 +1,25 @@
+body {
+  font-family: "CMU Sans Serif", sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "CMU Serif", serif !important;
+}
+
+code, pre {
+  font-family: "CMU Typewriter Text", monospace !important;
+}
+
+/* Remove all-caps from theme */
+* {
+  text-transform: none !important;
+}
+.site-footer {
+  padding-top: 0.3rem !important;
+  padding-bottom: 0.3rem !important;
+}
+
+.site-footer .container {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
