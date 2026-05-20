@@ -114,7 +114,7 @@ hugoblox:
     style: minimal # minimal | columns | centered
     language_switcher: true
     # Custom footer text (HTML supported)
-    text: "x"
+    text: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # COPYRIGHT
