@@ -31,32 +31,6 @@ links:
   # - icon: academicons/orcid
     # url: https://orcid.org/0000-0002-1825-0097
 
-# interests:
-#   - Large Language Models
-#   - Computer Vision
-#   - Reinforcement Learning
-#   - AI Ethics
-
-# education:
-#   - degree: BS Physics and Mathematics
-#     institution: California Institute of Tehnology
-#     start: 2015-09-01
-#     end: 2019-06-30
-#     summary: |
-#       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-#     button:
-#       text: Download dissertation
-#       url: /resume.pdf
-#       icon: hero/arrow-down-tray
-#   - degree: MS Computer Science
-#     institution: Carnegie Mellon University
-#     start: 2013-09-01
-#     end: 2015-05-31
-#   - degree: BS Computer Science
-#     institution: MIT
-#     start: 2009-09-01
-#     end: 2013-05-31
-
 experience:
   - role: Federal Associate Research Intern
     org: National Institute of Standards and Technology (NIST)
@@ -84,36 +58,3 @@ experience:
       physically realize Anderson Localization (acoustic isolation theory) for the mitigation of
       tinnitus in hearing aids via COMSOL® Multiphysics wave propagation simulations. Co-
       authored paper currently in preparation.
-
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - label: Python
-#         level: 5
-#       - label: Machine Learning
-#         level: 5
-#       - label: Cloud Computing
-#         level: 4
-#   - name: Research & Communication
-#     items:
-#       - label: Academic Writing
-#         level: 5
-#       - label: Conference Presentations
-#         level: 4
-#       - label: Grant Proposals
-#         level: 4
-
-# languages:
-#   - name: English
-#     level: 5
-#     label: Native
-#   - name: Spanish
-#     level: 4
-#     label: Fluent
-
-# awards:
-#   - title: Best Paper Award
-#     awarder: NeurIPS
-#     date: "2022-12-01"
-#     summary: Awarded for groundbreaking work on efficient training of large models.
-#     icon: hero/trophy
