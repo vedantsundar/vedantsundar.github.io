@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Vedant Sundar | Personal Website"
+    name: "Vedant Sundar"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -73,6 +73,7 @@ hugoblox:
   # Spacing and shape tokens
   # ────────────────────────────────────────────────────────────────────────────
   layout:
+    custom_css: ["css/custom.css"]
     # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
     radius: "md"
     # Spacing density: 'compact', 'comfortable', or 'spacious'
