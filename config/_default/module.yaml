@@ -8,6 +8,11 @@ imports:
   - path: github.com/HugoBlox/kit/modules/integrations/netlify
   - path: github.com/HugoBlox/kit/modules/blox
   - path: github.com/HugoBlox/kit/modules/slides
+module:
+  noVendor: true
+  disable:
+    - github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/assets/media
+    - github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/layouts/partials/head/icons.html
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
