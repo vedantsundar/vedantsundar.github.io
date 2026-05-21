@@ -45,19 +45,30 @@ links:
     # url: https://orcid.org/0000-0002-1825-0097
 
 experience:
-  - role: Federal Associate Research Intern
-    org: National Institute of Standards and Technology (NIST)
+  - role: Finite-Element Computational Analysis of an Ultrasonic Detection Array
+      Setup for Ultra-High Dose Rate (FLASH) Measurements and Absolute Dosimetry.
+    org: Dosimetry Group, Radiation Physics Division
+         Physical Measurement Laboratory (PML)
+         National Institute of Standards and Technology (NIST)
     start: 2025-06-20
     end: 2025-08-10
     summary: |
-      Project title: “Finite-Element Computational Analysis of an Ultrasonic Detection Array
-      Setup for Ultra-High Dose Rate (FLASH) Measurements and Absolute Dosimetry.”
       Developed next-generation Dosimetry standards for medical diagnostic imaging and
       radiotherapy, specifically in the novel cancer treatment FLASH Radiotherapy.
       Contributions spotlighted at the AAPM (American Association of Physicists in Medicine)
       67th Annual Meeting and Exhibition in 2025.
+    summary:
+      Awards: xxx.
     button:
-      text: View portfolio
+      text: View Poster
+      url: /
+      icon: hero/arrow-down-tray
+    button:
+      text: View Slides
+      url: /
+      icon: hero/arrow-down-tray
+    button:
+      text: View Summary of Findings
       url: /
       icon: hero/arrow-down-tray
   - role: Student Researcher for NSF-Grant No. 1741677 Project
