@@ -24,14 +24,13 @@ bio: |
   I'm also broadly interested in these fields' applications: see my Projects page for work in more applied contexts.
   In my free time, I've done some teaching, which you can find on my Outreach page. And of course, see my Hobbies page for, well, my hobbies!
 
-  A full CV is available upon request at my institutional email (embedded into the @ symbol on the left). For any personal inquiries, feel free to reach out at vedantsundar1@gmail.com.
+  A full CV is available upon request at my institutional email. For any personal inquiries, feel free to reach out at vedantsundar1@gmail.com.
 
 
 
 
-# affiliations:
-#   - name: Meta AI
-#     url: https://ai.meta.com/
+affiliations:
+  - name: California Institute of Technology (Caltech)
 
 links:
   - icon: at-symbol
@@ -45,6 +44,7 @@ links:
     # url: https://orcid.org/0000-0002-1825-0097
 
 experience:
+  name: "Outreach"
   - role: Finite-Element Computational Analysis of an Ultrasonic Detection Array
       Setup for Ultra-High Dose Rate (FLASH) Measurements and Absolute Dosimetry.temp
     org: Dosimetry Group, Radiation Physics Division
