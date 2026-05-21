@@ -56,18 +56,28 @@ experience:
     start: 2022-08-12
     end: 2026-05-01
     summary: |
-      I coached weekly using a self-developed
-      curriculum for coaching, focusing on algebra, number theory, combinatorics, geometry, and
-      mental-math strategies; expanded materials to other middle schools in the district. Honored to have sent ten students to the State MathCounts Competition thus far as the
-      head MathCounts Coach at Otto Middle School. 
-  - role: Student Researcher for NSF-Grant No. 1741677 Project
-    org: University of North Texas
-    start: 2024-06-01
-    end: 2024-07-31
+      I coached students weekly at my old middle school using a self-developed
+      curriculum for contest mathematics, focusing on algebra, number theory, combinatorics, geometry, and
+      mental-math strategies. I'm honored to have helped ten students rank at State, given Texas being a pretty 
+      competitive state, and two qualify for the American Invitational Mathematics Examination (AIME). All materials 
+      (e.g. mock exams roughly at the State level of difficulty) were typset with LaTeX and are available upon request.
+  - role: Math Club and Mu Alpha Theta Chapter President
+    org: Plano East Senior High School
+        Plano Independent School District (PISD)
+    start: 2023-08-12
+    end: 2026-05-11
     summary: |
-      Project title: “Ferrofluid Ultrasound Isolation Device Using Remotely-Induced Anderson
-      Localization.”
-      Designed a custom Ferrofluidic Waveguide apparatus with a Topological Defect to
-      physically realize Anderson Localization (acoustic isolation theory) for the mitigation of
-      tinnitus in hearing aids via COMSOL® Multiphysics wave propagation simulations. Co-
-      authored paper currently in preparation.
+      I devised a curriculum for weekly meetings, focusing on proof techniques, skills in
+      competition mathematics, and the history/applications of mathematics. I've also created engaging
+      activities for club members (e.g. an elimination-style countdown round or problem sets that lead to 
+      interesting discoveries by the end of the set). All materials were typset with LaTeX (figures 
+      with TikZ, slide decks with Beamer) and are available upon request.
+  - role: Physics Club Founder / President
+    org: Plano East Senior High School
+        Plano Independent School District (PISD)
+    start: 2024-08-12
+    end: 2026-05-11
+    summary: |
+      I created a curriculum for weekly meetings, focusing on preparation for the F=ma olympiad-
+      qualifying exam, University Interscholastic League (UIL) competitions, and conceptual techniques. I also developed mock exams 
+      to prepare for local competitions, mainly University of Texas at Austin's UIL series.
