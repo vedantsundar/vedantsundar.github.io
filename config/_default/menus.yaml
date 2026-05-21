@@ -19,6 +19,9 @@ main:
   # - name: Courses
   #   url: courses/
   #   weight: 30
+  - name: Outreach
+    url: outreach/
+    weight: 40
   - name: Hobbies
     url: hobbies/
-    weight: 40
+    weight: 50
