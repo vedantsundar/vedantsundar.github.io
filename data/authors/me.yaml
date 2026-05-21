@@ -24,7 +24,7 @@ bio: |
   I'm also broadly interested in these fields' applications: see my Projects page for work in more applied contexts.
   In my free time, I've done some teaching, which you can find on my Outreach page. And of course, see my Hobbies page for, well, my hobbies!
 
-  Feel free to reach out at vedantsundar1@gmail.com for any personal inquiries. And a full CV is available upon request.
+  A full CV is available upon request at my institutional email (embedded into the @ symbol on the left). For any personal inquiries, feel free to reach out at vedantsundar1@gmail.com.
 
 
 
@@ -44,7 +44,7 @@ links:
   # - icon: academicons/orcid
     # url: https://orcid.org/0000-0002-1825-0097
 
-experience:
+outreach:
   - role: Finite-Element Computational Analysis of an Ultrasonic Detection Array
       Setup for Ultra-High Dose Rate (FLASH) Measurements and Absolute Dosimetry.temp
     org: Dosimetry Group, Radiation Physics Division
@@ -59,7 +59,6 @@ experience:
       radiotherapy, specifically in the novel cancer treatment FLASH Radiotherapy.
       Contributions spotlighted at the AAPM (American Association of Physicists in Medicine)
       67th Annual Meeting and Exhibition in 2025.
-        url: https://youtube.com
   - role: Student Researcher for NSF-Grant No. 1741677 Project
     org: University of North Texas
     start: 2024-06-01
