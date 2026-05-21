@@ -52,8 +52,8 @@ experience:
          Physical Measurement Laboratory (PML)
 
          National Institute of Standards and Technology (NIST)
-    start: 2025-06-20
-    end: 2025-08-10
+    # start: 2025-06-20
+    # end: 2025-08-10
     summary: |
       Developed next-generation Dosimetry standards for medical diagnostic imaging and
       radiotherapy, specifically in the novel cancer treatment FLASH Radiotherapy.
@@ -61,8 +61,8 @@ experience:
       67th Annual Meeting and Exhibition in 2025.
   - role: Student Researcher for NSF-Grant No. 1741677 Project
     org: University of North Texas
-    start: 2024-06-01
-    end: 2024-07-31
+    # start: 2024-06-01
+    # end: 2024-07-31
     summary: |
       Project title: “Ferrofluid Ultrasound Isolation Device Using Remotely-Induced Anderson
       Localization.”
