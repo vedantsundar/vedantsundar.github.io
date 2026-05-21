@@ -8,7 +8,7 @@ sections:
   - block:
     content:
       title: Hobbies
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I enjoy doing contests for the thrill under a time crunch, and like to think that I've been fairly successful at them.
     #   filters:
     #     folders:
     #       - projects
