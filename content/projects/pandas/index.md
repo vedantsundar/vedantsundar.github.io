@@ -1,5 +1,5 @@
 ---
-title: Magneto-Optical Automatic Recycling Sorter
+title: Pandas
 date: 2023-10-26
 links:
   - type: site
