@@ -52,8 +52,6 @@ experience:
          Physical Measurement Laboratory (PML)
 
          National Institute of Standards and Technology (NIST)
-
-
     start: 2025-06-20
     end: 2025-08-10
     summary: |
@@ -61,22 +59,6 @@ experience:
       radiotherapy, specifically in the novel cancer treatment FLASH Radiotherapy.
       Contributions spotlighted at the AAPM (American Association of Physicists in Medicine)
       67th Annual Meeting and Exhibition in 2025.
-    awards:
-      - x
-      - w
-      - z
-    links:
-      - icon: pdf
-        url: ""
-      - icon: code
-        url: https://github.com/HugoBlox/kit
-      - icon: dataset
-        url: https://github.com/HugoBlox/kit
-      - icon: slides
-        url: https://www.slideshare.net/
-      - icon: source
-        url: https://github.com/HugoBlox/kit
-      - icon: video
         url: https://youtube.com
   - role: Student Researcher for NSF-Grant No. 1741677 Project
     org: University of North Texas
