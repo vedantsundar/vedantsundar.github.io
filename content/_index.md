@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 'Bio'
-summary: 'B'
+summary: ''
 date: 2022-10-24
 type: landing
 
