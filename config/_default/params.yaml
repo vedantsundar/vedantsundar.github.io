@@ -295,5 +295,5 @@ hugoblox:
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
-site:
-  icon: "media/favicon.png"
+  favicon:
+    icon: "favicon.ico"
