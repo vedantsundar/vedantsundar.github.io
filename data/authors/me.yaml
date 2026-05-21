@@ -61,10 +61,10 @@ experience:
       curriculum for contest mathematics, focusing on algebra, number theory, combinatorics, geometry, and
       mental-math strategies. I'm honored to have helped ten students rank at State, given Texas being a pretty 
       competitive state, and two qualify for the American Invitational Mathematics Examination (AIME). All materials 
-      (e.g. mock exams roughly at the State level of difficulty) were typset with LaTeX and are available upon request.
+      (e.g. mock exams roughly at the State level of difficulty) were typset with $\LaTeX$ and are available upon request.
   - role: Math Club and Mu Alpha Theta Chapter President
     org: |
-    Plano East Senior High School
+      Plano East Senior High School
       Plano Independent School District (PISD)
     start: 2023-08-12
     end: 2026-05-11
