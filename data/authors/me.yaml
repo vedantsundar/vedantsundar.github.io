@@ -62,17 +62,17 @@ experience:
       - w
       - z
     buttons:
-      text: View Poster
-      url: /
-      icon: hero/arrow-down-tray
+      - text: View Poster
+        url: /
+        icon: hero/arrow-down-tray
     
-      text: View Slides
-      url: /
-      icon: hero/arrow-down-tray
+      - text: View Slides
+        url: /
+        icon: hero/arrow-down-tray
     
-      text: View Summary of Findings
-      url: /
-      icon: hero/arrow-down-tray
+      - text: View Summary of Findings
+        url: /
+        icon: hero/arrow-down-tray
   - role: Student Researcher for NSF-Grant No. 1741677 Project
     org: University of North Texas
     start: 2024-06-01
