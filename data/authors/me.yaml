@@ -66,17 +66,17 @@ Research:
       - w
       - z
     links:
-      - type: pdf
+      - icon: pdf
         url: ""
-      - type: code
+      - icon: code
         url: https://github.com/HugoBlox/kit
-      - type: dataset
+      - icon: dataset
         url: https://github.com/HugoBlox/kit
-      - type: slides
+      - icon: slides
         url: https://www.slideshare.net/
-      - type: source
+      - icon: source
         url: https://github.com/HugoBlox/kit
-      - type: video
+      - icon: video
         url: https://youtube.com
   - role: Student Researcher for NSF-Grant No. 1741677 Project
     org: University of North Texas
