@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
-summary: ''
+title: 'A'
+summary: 'B'
 date: 2022-10-24
 type: landing
 
@@ -10,11 +10,11 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: ''
+      text: 'C'
       headings:
         about: 'About Me'
-        education: ''
-        interests: ''
+        education: 'D'
+        interests: 'E'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
