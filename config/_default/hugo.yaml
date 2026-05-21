@@ -31,9 +31,10 @@ cascade:
 ############################
 ## ADVANCED
 ############################
-[[module.mounts]]
-source = "layouts"
-target = "layouts"
+module:
+  mounts:
+    - source = "layouts"
+      target = "layouts"
 
 build:
   writeStats: true
