@@ -52,6 +52,7 @@ experience:
   #     Hosted problem-solving sessions every day as part of this intensive Mathematics Olympiad-training summer camp.
   - role: Head MathCounts Coach
     org: Otto Middle School
+        
         Plano Independent School District (PISD)
     start: 2022-08-12
     end: 2026-05-01
@@ -63,6 +64,7 @@ experience:
       (e.g. mock exams roughly at the State level of difficulty) were typset with LaTeX and are available upon request.
   - role: Math Club and Mu Alpha Theta Chapter President
     org: Plano East Senior High School
+        
         Plano Independent School District (PISD)
     start: 2023-08-12
     end: 2026-05-11
@@ -71,9 +73,10 @@ experience:
       competition mathematics, and the history/applications of mathematics. I've also created engaging
       activities for club members (e.g. an elimination-style countdown round or problem sets that lead to 
       interesting discoveries by the end of the set). All materials were typset with $\LaTeX$ (figures 
-      with Ti$\textit{k}$Z, slide decks with \textsc{Beamer}) and are available upon request.
+      with Ti$\textit{k}$Z, slide decks with Beamer) and are available upon request.
   - role: Physics Club Founder / President
     org: Plano East Senior High School
+        
         Plano Independent School District (PISD)
     start: 2024-08-12
     end: 2026-05-11
