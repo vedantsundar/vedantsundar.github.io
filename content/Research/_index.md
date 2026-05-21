@@ -1,12 +1,21 @@
 ---
-title: Research
-cms_exclude: true
+title: 'Research'
+date: 2023-10-24
+type: landing
 
-# View.
-view: citation
+design:
+  spacing: '5rem'
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# Note: `username` refers to the user's folder name in `content/authors/`
+
+# Page sections
+sections:
+  - block: resume-experience
+    content:
+      username: me
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
 ---

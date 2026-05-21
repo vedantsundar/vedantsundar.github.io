@@ -44,7 +44,7 @@ links:
   # - icon: academicons/orcid
     # url: https://orcid.org/0000-0002-1825-0097
 
-experience:
+Research:
   - role: Finite-Element Computational Analysis of an Ultrasonic Detection Array
       Setup for Ultra-High Dose Rate (FLASH) Measurements and Absolute Dosimetry.
     org: Dosimetry Group, Radiation Physics Division
@@ -52,6 +52,8 @@ experience:
          Physical Measurement Laboratory (PML)
 
          National Institute of Standards and Technology (NIST)
+
+
     start: 2025-06-20
     end: 2025-08-10
     summary: |
@@ -64,17 +66,18 @@ experience:
       - w
       - z
     links:
-      - text: View Poster
-        url: /
-        icon: hero/arrow-down-tray
-    
-      - text: View Slides
-        url: /
-        icon: hero/arrow-down-tray
-    
-      - text: View Summary of Findings
-        url: /
-        icon: hero/arrow-down-tray
+      - type: pdf
+        url: ""
+      - type: code
+        url: https://github.com/HugoBlox/kit
+      - type: dataset
+        url: https://github.com/HugoBlox/kit
+      - type: slides
+        url: https://www.slideshare.net/
+      - type: source
+        url: https://github.com/HugoBlox/kit
+      - type: video
+        url: https://youtube.com
   - role: Student Researcher for NSF-Grant No. 1741677 Project
     org: University of North Texas
     start: 2024-06-01
