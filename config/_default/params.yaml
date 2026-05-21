@@ -95,7 +95,7 @@ hugoblox:
     # Menu alignment
     align: right # left | center | right
     # Feature toggles
-    search: true
+    search: false
     theme_toggle: true
     theme_picker: false
     language_switcher: true
