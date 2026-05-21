@@ -70,8 +70,8 @@ experience:
       I devised a curriculum for weekly meetings, focusing on proof techniques, skills in
       competition mathematics, and the history/applications of mathematics. I've also created engaging
       activities for club members (e.g. an elimination-style countdown round or problem sets that lead to 
-      interesting discoveries by the end of the set). All materials were typset with LaTeX (figures 
-      with TikZ, slide decks with Beamer) and are available upon request.
+      interesting discoveries by the end of the set). All materials were typset with $\LaTeX$ (figures 
+      with $Ti\emph{k}Z$, slide decks with $\textsc{Beamer}$) and are available upon request.
   - role: Physics Club Founder / President
     org: Plano East Senior High School
         Plano Independent School District (PISD)
