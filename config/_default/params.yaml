@@ -297,3 +297,6 @@ hugoblox:
     affiliate_code: ""
   favicon:
     icon: "favicon.ico"
+    icon_32: ""
+    icon_16: ""
+    apple_touch_icon: ""
