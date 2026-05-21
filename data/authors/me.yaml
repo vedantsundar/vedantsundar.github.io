@@ -48,7 +48,9 @@ experience:
   - role: Finite-Element Computational Analysis of an Ultrasonic Detection Array
       Setup for Ultra-High Dose Rate (FLASH) Measurements and Absolute Dosimetry.
     org: Dosimetry Group, Radiation Physics Division
+
          Physical Measurement Laboratory (PML)
+
          National Institute of Standards and Technology (NIST)
     start: 2025-06-20
     end: 2025-08-10
@@ -61,7 +63,7 @@ experience:
       - x
       - w
       - z
-    buttons:
+    links:
       - text: View Poster
         url: /
         icon: hero/arrow-down-tray
