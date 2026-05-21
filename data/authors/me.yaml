@@ -57,17 +57,19 @@ experience:
       radiotherapy, specifically in the novel cancer treatment FLASH Radiotherapy.
       Contributions spotlighted at the AAPM (American Association of Physicists in Medicine)
       67th Annual Meeting and Exhibition in 2025.
-    summary:
-      Awards: xxx.
-    button:
+    awards:
+      - x
+      - w
+      - z
+    buttons:
       text: View Poster
       url: /
       icon: hero/arrow-down-tray
-    button:
+    
       text: View Slides
       url: /
       icon: hero/arrow-down-tray
-    button:
+    
       text: View Summary of Findings
       url: /
       icon: hero/arrow-down-tray
