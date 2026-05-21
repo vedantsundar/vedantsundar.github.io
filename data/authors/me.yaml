@@ -43,21 +43,23 @@ links:
   # - icon: academicons/orcid
     # url: https://orcid.org/0000-0002-1825-0097
 
-outreach:
-  - role: Finite-Element Computational Analysis of an Ultrasonic Detection Array
-      Setup for Ultra-High Dose Rate (FLASH) Measurements and Absolute Dosimetry.temp
-    org: Dosimetry Group, Radiation Physics Division
-
-         Physical Measurement Laboratory (PML)
-
-         National Institute of Standards and Technology (NIST)
-    start: 2025-06-20
-    end: 2025-08-10
+experience:
+  # - role: Teaching Assistant
+  #   org: AwesomeMath Summer Program
+  #   start: 2025-06-20
+  #   end: 2025-08-10
+  #   summary: |
+  #     Hosted problem-solving sessions every day as part of this intensive Mathematics Olympiad-training summer camp.
+  - role: Head MathCounts Coach
+    org: Otto Middle School
+    Plano Independent School District (PISD)
+    start: 2022-08-12
+    end: 2026-05-01
     summary: |
-      Developed next-generation Dosimetry standards for medical diagnostic imaging and
-      radiotherapy, specifically in the novel cancer treatment FLASH Radiotherapy.
-      Contributions spotlighted at the AAPM (American Association of Physicists in Medicine)
-      67th Annual Meeting and Exhibition in 2025.
+      I coached weekly using a self-developed
+      curriculum for coaching, focusing on algebra, number theory, combinatorics, geometry, and
+      mental-math strategies; expanded materials to other middle schools in the district. Honored to have sent ten students to the State MathCounts Competition thus far as the
+      head MathCounts Coach at Otto Middle School. 
   - role: Student Researcher for NSF-Grant No. 1741677 Project
     org: University of North Texas
     start: 2024-06-01
