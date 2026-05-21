@@ -124,7 +124,7 @@ hugoblox:
     # Copyright notice - supports {year}, {name}, {license} placeholders
     notice: "© {year} {name}."
     license:
-      type: cc # cc | custom
+      type: custom # cc | custom
       allow_derivatives: false
       share_alike: false
       allow_commercial: false
@@ -295,10 +295,5 @@ hugoblox:
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
-  params:
-    assets:
-      favicon: "media/favicon.png"
-      favicon16x16: "media/favicon.png"
-      favicon32x32: "media/favicon.png"
-      apple_touch_icon: "media/favicon.png"
-      safari_pinned_tab: "media/favicon.png"
+site:
+  icon: "media/favicon.png"
