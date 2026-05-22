@@ -11,7 +11,7 @@ name:
 postnominals:
 # status:
 #   icon: "🃏"
-role: First-Year Undergraduate Student
+role: California Institute of Technology (Caltech)
 bio: |
   I'm an incoming undergraduate student at the California Institute of Technology (Caltech), where I will be pursuing a B.S. in Physics and Mathematics.
   My current research interests include Enumerative Combinatorics and Graph Theory on the Maths side of things, 
@@ -30,7 +30,9 @@ bio: |
 
 
 affiliations:
-  - name: California Institute of Technology (Caltech)
+  - name: First-Year Undergraduate Student
+    org: California Institute of Technology (Caltech)
+    url: https://www.caltech.edu/
 
 links:
   - icon: at-symbol
