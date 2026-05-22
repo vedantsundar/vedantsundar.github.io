@@ -4,7 +4,7 @@ date: 2024-05-19
 type: landing
 # Page sections
 sections:
-  - block: collection
+  - block: portfolio
     content:
       title: Hobbies
       text: |
@@ -17,16 +17,9 @@ sections:
         I do love a good book. So far, a good book in my eyes is classic literature, or a riveting fantasy / mystery / science fiction novel. My recent reads (and re-reads) have been Turgenev's *Fathers and Sons*, Machiavelli's *The Prince*, and Cervantes' *Don Quixote*. I do highly recommend them.
 
         I really enjoy new languages! (I can't say I'm very good at them, though...) My mother-tongue is Tamil, which I can speak fluently; I learned French for 4 years in school, and have some rudimentary understanding of the language; and consider myself decent at English. I won't say fluent on the last one, because then I'll be liable for any grave language mistakes found on this website, but if you do find any errors, hopefully they enhance the natural beauty of this site.
-      filters:
-        folders:
           
     design:
       view: article
-    #   fill_image: false
-    #   columns: 0
-    #   show_date: false
-    #   show_read_time: false
-    #   show_read_more: false
 
 
 ---
