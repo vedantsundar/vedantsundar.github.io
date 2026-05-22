@@ -4,7 +4,7 @@ date: 2024-05-19
 type: landing
 # Page sections
 sections:
-  - block: portfolio
+  - block: markdown
     content:
       title: Hobbies
       text: |
