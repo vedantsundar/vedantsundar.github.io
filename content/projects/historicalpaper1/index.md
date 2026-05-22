@@ -5,9 +5,8 @@ links:
   - type: site
     url: https://github.com/scikit-learn/scikit-learn
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Cold War
+  - Historical Paper
 ---
 
 The purpose of this investigation is to redesign the Fireplace Control Circuit for the latest residential gas fireplace produced by the Acme Fireplace Company and recalled residential gas fireplaces. The scope of this research encompasses Fireplace Control Circuit design remediation in the United States.

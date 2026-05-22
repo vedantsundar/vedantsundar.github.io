@@ -6,6 +6,7 @@ links:
     url:
 tags:
   - Aerospace Engineering
+  - Technical Report
 ---
 
 The purpose of this investigation is to improve a small-scale base model of a Transporter- Erector-Launcher (TEL) platform for a subsidiary of [redacted] via an increase in ease of use, efficiency, range of projectile, and accuracy, among other criteria. The scope of this research encompasses TEL design remediation nationwide for efficient Short-Range Ballistic Missile (SRBM) launches.

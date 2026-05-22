@@ -6,6 +6,7 @@ links:
     url: 
 tags:
   - Electronics Engineering
+  - Technical Report
 ---
 
 The purpose of this investigation is to design a Now Serving Display circuit for a subsidiary of [redacted] to track customers served by delicatessen employees before signaling employees to take a break. The scope of this research encompasses Kitchen Display System design remediation nationwide.
