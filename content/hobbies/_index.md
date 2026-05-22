@@ -1,7 +1,7 @@
 ---
 title: 'Hobbies'
 date: 2024-05-19
-# type: landing
+type: landing
 ---
 
 I enjoy doing maths contests for the thrill of a time crunch, and like to think that I've been fairly successful at them: I've qualified for the American Invitational Mathematics Examination (AIME) since middle school, won 2nd place in Yale University's MMATHS Tournament at the University of Texas at Dallas (Team and Guts rounds), ranked 2nd out of 179 contestants globally in the University of Houston's Smackdown (rapid elimination) Round, and ranked 35th out of 4033 teams internationally in the Purple Comet! Math Meet, just to name a couple awards.
