@@ -9,8 +9,8 @@ name:
   # pronunciation: ''  # Example: Wáng Wěi
   # pronouns: he/him
 postnominals:
-# status:
-#   # icon: "☕️"
+ status:
+   icon: "🃟"
 # role: First-Year Undergraduate Student
 bio: |
   I'm an incoming undergraduate student at the California Institute of Technology (Caltech), where I will be pursuing a B.S. in Physics and Mathematics.
