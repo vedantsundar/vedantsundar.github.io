@@ -2,7 +2,7 @@
 title: "Curing Cancer in a FLASH: A Finite-Element Computational Analysis of an Ultrasonic Detection Array Setup for Ultra-High Dose Rate (FLASH) Measurements and Absolute Dosimetry"
 authors:
 - me
-date: "2019-04-07T00:00:00Z"
+date: "2025-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-09-01T00:00:00Z"
@@ -39,12 +39,12 @@ links:
 - type: pdf
   url: V.Sundar_FEM Analysis for UHDR (FLASH) Measurements and Absolute Dosimetry_Paper.pdf
 - type: poster
-  url: https://www.slideshare.net/
+  url: V.Sundar_FEM Analysis for UHDR (FLASH) Measurements and Absolute Dosimetry_Poster.pdf
 - type: slides
-  url: "#"
+  url: V.Sundar_FEM Analysis for UHDR (FLASH) Measurements and Absolute Dosimetry_Talk_Slides.pdf
 - type: custom
   label: Visual Abstract
-  url: "#"
+  url: V.Sundar_FEM Analysis for UHDR (FLASH) Measurements and Absolute Dosimetry_Visual Abstract.pdf
 # - type: source
 #   url: "#"
 # - type: video
