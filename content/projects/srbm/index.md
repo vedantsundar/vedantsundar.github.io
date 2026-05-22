@@ -2,8 +2,8 @@
 title: Applying Ballistic Launching Mechanisms to Optimize Transporter-Erector-Launcher (TEL) Performances in Conjunction with Short-Range Ballistic Missiles
 date: 2024-05-09
 links:
-  - type: site
-    url: https://github.com/pandas-dev/pandas
+  - type: pdf
+    url:
 tags:
   - Hugo
   - HugoBlox
@@ -15,5 +15,7 @@ The purpose of this investigation is to improve a small-scale base model of a Tr
 A Design Brief derived from the Request For Proposal will be used to generate concept sketches of an improved TEL structure, before selecting a design to pursue via a Decision Matrix. The final design, once drafted (both in a 3-view and isometric technical drawing), will be implemented using the VEX V5 Robotics components, and every possible input combination will be repeatedly tested to ensure design accuracy.
 
 The redesigned TEL vehicle for SRBM systems implemented exceeded its target constraints and functioned with precision throughout all trials, successfully demonstrating continuous motor motion throughout launch angles (10-80 degrees), consistent initial velocity through all launch angles, unmanned adjustment of robot motion and aim, and functionality of LED status indicators. This design will increase ballistic launching performance, leading to precision and accuracy in ballistic missile operations, such as autonomous and unmanned trials currently conducted by the U.S. Army. It is recommended that the client use the findings of this investigation to optimize TELs for SRBM systems with an enlarged scheme of the designed solution.
+
+A full paper can be accessed at the top of this page.
 
 <!--more-->

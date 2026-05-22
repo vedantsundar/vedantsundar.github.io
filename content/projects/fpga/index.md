@@ -2,8 +2,8 @@
 title: Implementing FPGA Framework in Now Serving Displays for Efficient Kitchen Display Systems in Delicatessens
 date: 2025-04-04
 links:
-  - type: site
-    url: https://github.com/pytorch/pytorch
+  - type: pdf
+    url: 
 tags:
   - Hugo
   - HugoBlox
@@ -16,4 +16,5 @@ A Design Brief derived from the Request For Proposal and Preliminary Schematics 
 
 The Now Serving Display circuit implemented on the Protoboard functioned with perfect accuracy and precision throughout all trials, successfully counting from 0 to 85 to signal a break for delicatessen counter employees and offering reset capabilities. This design will increase delicatessen employee satisfaction and performance, leading to decreased Kitchen Display System malfunctions and increased profits for Dauntless Industries, LLC upon commercial implementation. It is recommended that the client use the findings of this investigation to optimize Kitchen Display Systems with the designed circuit.
 
+A full paper can be accessed at the top of this page.
 <!--more-->
