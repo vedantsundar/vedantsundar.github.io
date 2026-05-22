@@ -36,13 +36,14 @@ links:
 # - type: preprint
 #   provider: arxiv
 #   id: 1512.04133v1
-- type: paper
+- type: pdf
   url: V.Sundar_FEM Analysis for UHDR (FLASH) Measurements and Absolute Dosimetry_Paper.pdf
 - type: poster
   url: https://www.slideshare.net/
 - type: slides
   url: "#"
-- type: poster
+- type: custom
+  label: Visual Abstract
   url: "#"
 # - type: source
 #   url: "#"
