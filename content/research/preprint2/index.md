@@ -37,13 +37,13 @@ links:
 #   id: 1512.04133v1
 - type: pdf
   url: V.Sundar_FEM Acoustic Propagation through Broken P-Symmetric Periodic Structures for Anderson Localization_Paper.pdf
-# - type: poster
-#   url:
+- type: poster
+  url: V.Sundar_FEM Acoustic Propagation through Broken P-Symmetric Periodic Structures for Anderson Localization_Poster.pdf
 - type: slides
   url: V.Sundar_FEM Acoustic Propagation through Broken P-Symmetric Periodic Structures for Anderson Localization_Talk_Slides.pdf
-- type: custom
-  label: Visual Abstract
-  url: V.Sundar_FEM Acoustic Propagation through Broken P-Symmetric Periodic Structures for Anderson Localization_Visual Abstract.pdf
+# - type: custom
+#   label: Visual Abstract
+#   url: 
 # - type: source
 #   url: "#"
 # - type: video
