@@ -9,7 +9,8 @@ tags:
   - Historical Paper
 ---
 “Do Not Burrow in Other People’s Yards!”
-Berg. Nicht in fremden Gӓrten wühlen! Illustration. April 25, 1956. Neues Deutschland. https://dfg-viewer.de/show?id=9&tx_dlf%5Bid%5D=https%3A%2F%2Fcontent.staatsbi bliothek-berlin.de%2Fzefys%2FSNP2532889X-19560425-0-0-0-0.xml&tx_dlf%5Bpage %5D=6.
+
+Berg. Nicht in fremden Gӓrten wühlen! Illustration. April 25, 1956. Neues Deutschland. (Full citation on pg. 17, Appendix B, of full paper.)
 
 This paper concerns Operation Gold, a Cold War-era American wiretapping operation that required a 1,476-foot tunnel to be constructed under Berlin, and its significance in history.
 
