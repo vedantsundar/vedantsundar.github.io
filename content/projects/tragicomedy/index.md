@@ -3,7 +3,7 @@ title: Characterizing The Comic and Tragic Heroes, Presented in Antigone and The
 date: 2024-12-16
 links:
   - type: pdf
-    url: https://github.com/scikit-learn/scikit-learn
+    url:
 tags:
   - Comparative Literary Analysis
   - Essay
