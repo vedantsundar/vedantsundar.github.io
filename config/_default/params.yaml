@@ -169,7 +169,7 @@ hugoblox:
       enable: true
     # Reading time estimates
     reading_time:
-      enable: true
+      enable: false
     # Academic citations
     citations:
       style: ieee # apa | mla | chicago | ieee
@@ -225,7 +225,7 @@ hugoblox:
   # Search engine site verification codes
   # ────────────────────────────────────────────────────────────────────────────
   verification:
-    google: ""
+    google: "google-site-verification=GGDjz4h1cuvb61G45oT_6TaSQmF4IB2NH5say7LGCNA"
     bing: ""
     baidu: ""
     yandex: ""
