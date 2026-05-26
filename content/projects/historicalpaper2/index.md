@@ -6,8 +6,8 @@ links:
   - type: pdf
     url: V.Sundar_How the Round Table Conferences Paved the Way for Indian Independence_Historical Paper.pdf
 tags:
-  - Historical Paper
   - Indian History
+  - Historical Paper
 ---
 A photograph of the Second Round Table Conference.
 
