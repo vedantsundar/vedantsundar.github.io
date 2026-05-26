@@ -114,7 +114,7 @@ hugoblox:
     style: minimal # minimal | columns | centered
     language_switcher: true
     # Custom footer text (HTML supported)
-    text: "Favicon hand-drawn by myself, inspired by the Ikebana Gothic lettering style (style by calligrapher Stella Wong of Stellahism)."
+    text: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # COPYRIGHT
