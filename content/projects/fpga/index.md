@@ -1,6 +1,6 @@
 ---
 title: Implementing FPGA Framework in Now Serving Displays for Efficient Kitchen Display Systems in Delicatessens
-# date: 2025-04-04
+# date: 
 weight: 2
 # links:
 #   - type: pdf

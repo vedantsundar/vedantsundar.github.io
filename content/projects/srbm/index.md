@@ -1,6 +1,6 @@
 ---
 title: Applying Ballistic Launching Mechanisms to Optimize Transporter-Erector-Launcher (TEL) Performances in Conjunction with Short-Range Ballistic Missiles
-# date: 2024-05-09
+# date: 
 weight: 3
 # links:
 #   - type: pdf

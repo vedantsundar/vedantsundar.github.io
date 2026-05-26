@@ -1,6 +1,6 @@
 ---
 title: "The Fight for Purna Swaraj: How the Round Table Conferences Paved the Way for Indian Independence"
-# date: 2022-03-25
+# date:
 weight: 4
 # links:
 #   - type: pdf
@@ -21,6 +21,6 @@ While researching, I kept a tabular document containing my analysis and the info
 
 The Round Table Conferences are significant in numerous ways. They were a direct influence for the Government of India Act of 1935, which acted as a precedent to the Purna Swaraj Resolution’s royal assent in 1947. Unfortunately, between 1935 and 1947, the Round Table Conferences were nullified due to World War Ⅱ. The Round Table Conferences also showed the world that India was a diplomatic power. Additionally, it set the stage for the state of India’s government and helped form two of the world’s largest democracies, India and the United Kingdom. Lastly, by utilizing debate and diplomacy, the Round Table Conferences forged a link with Great Britain. Hence, I argue that the Round Table Conferences were vital in India’s independence and created a secure alliance with Great Britain, but were overshadowed due to various tensions at the time.
 
-A full paper is available upon request. It was submitted to the Texas History Day competition in 2022, and was shortlisted (top 8 / ~400 entries in the state) for advancement to the National History Day contest.
+A full paper is available upon request. It was submitted to the Texas History Day competition, and was shortlisted (top 8 / ~400 entries in the state) for advancement to the National History Day contest.
 
 <!--more-->

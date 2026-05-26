@@ -1,6 +1,6 @@
 ---
 title: "All That is Gold Does Not Glitter: How Operation Gold Revolutionized Intelligence Amidst The Cold War"
-# date: 2023-03-13
+# date: 
 weight: 4
 # links:
 #   - type: pdf
@@ -27,6 +27,6 @@ Operation Gold proved to be invaluable as a frontier in history. The Central Int
 
 Thus, the following paper makes the argument that Operation Gold advanced the United States’ intelligence powers, and became a frontier in counterintelligence and espionage.
 
-A full paper is available upon request, and was submitted to the Texas History Day competition in 2023.
+A full paper is available upon request, and was submitted to the Texas History Day competition.
 
 <!--more-->
