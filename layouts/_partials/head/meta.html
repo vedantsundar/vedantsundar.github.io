@@ -1,3 +1,7 @@
 <!-- OVERRIDE HUGOBLOX AUTO ICONS -->
 <link rel="icon" href="/favicon-v2.png" type="image/png">
 <link rel="shortcut icon" href="/favicon-v2.png" type="image/png">
+
+{{ with site.Params.verification.bing }}
+<meta name="msvalidate.01" content="{{ . }}" />
+{{ end }}
