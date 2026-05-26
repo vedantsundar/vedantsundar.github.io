@@ -1,6 +1,7 @@
 ---
 title: Characterizing The Comic and Tragic Heroes, Presented in Antigone and The Tempest
 date: 2024-12-16
+weight: 5
 links:
   - type: pdf
     url:

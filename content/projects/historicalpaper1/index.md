@@ -1,6 +1,7 @@
 ---
 title: "All That is Gold Does Not Glitter: How Operation Gold Revolutionized Intelligence Amidst The Cold War"
 date: 2023-03-13
+weight: 4
 links:
   - type: pdf
     url:
