@@ -35,7 +35,7 @@ module:
   mounts:
     - source = "layouts"
       target = "layouts"
-      favicon = "favicon.ico"
+      favicon = "favicon-v2.ico"
 
 build:
   writeStats: true
