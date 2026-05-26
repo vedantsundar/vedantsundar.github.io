@@ -4,7 +4,7 @@ date: 2025-04-04
 weight: 2
 links:
   - type: pdf
-    url: 
+    url: V.Sundar_FPGA Implementation in Now Serving Displays for Efficient KDS_Technical Report.pdf
 tags:
   - Electronics Engineering
   - Technical Report

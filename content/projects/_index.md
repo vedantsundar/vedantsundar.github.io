@@ -9,6 +9,8 @@ sections:
     content:
       title: Selected Projects
       text: Here are a selection of projects that I have worked on over the years.
+      sort_by: Weight
+      order: asc
       filters:
         folders:
           - projects

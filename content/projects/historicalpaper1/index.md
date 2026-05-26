@@ -4,7 +4,7 @@ date: 2023-03-13
 weight: 4
 links:
   - type: pdf
-    url:
+    url: V.Sundar_How Operation Gold Revolutionized Intelligence Amidst The Cold War_Historical Paper.pdf
 tags:
   - Cold War
   - Historical Paper
@@ -27,6 +27,6 @@ Operation Gold proved to be invaluable as a frontier in history. The Central Int
 
 Thus, the following paper makes the argument that Operation Gold advanced the United States’ intelligence powers, and became a frontier in counterintelligence and espionage.
 
-A full paper can be accessed at the top of this page.
+A full paper can be accessed at the top of this page, and was submitted to the Texas History Day competition in 2023.
 
 <!--more-->

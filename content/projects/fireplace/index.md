@@ -1,10 +1,10 @@
 ---
 title: Optimizing Fireplace Control Workflows for Immediate Implementation in Recalled Residential Gas Fireplaces
-date:
+date: 2024-12-16
 weight: 1
 links:
   - type: pdf
-    url: 
+    url: V.Sundar_Optimizing Fireplace Control Workflows for Immediate Implementation in Recalled Residential Gas Fireplaces_Technical Report.pdf
 tags:
   - Electronics Engineering
   - Technical Report

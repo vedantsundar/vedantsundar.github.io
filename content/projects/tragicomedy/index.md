@@ -1,10 +1,10 @@
 ---
 title: Characterizing The Comic and Tragic Heroes, Presented in Antigone and The Tempest
-date: 2024-12-16
+date: 2024-11-22
 weight: 5
 links:
   - type: pdf
-    url:
+    url: V.Sundar_Characterizing The Comic and Tragic Heroes, Presented in Antigone and The Tempest_English Paper.pdf
 tags:
   - Comparative Literary Analysis
   - Essay

@@ -5,6 +5,12 @@ a[href*="hugo.chat"] {
 }
 
 /* Hide read time metadata in article headers when it is shown as a 0 min read badge */
-.text-gray-500.flex.items-center > span.mx-1:last-child {
+.text-gray-500.flex.items-center > span.mx-1:last-child,
+.text-gray-500.flex.items-center > span.mx-1:nth-last-child(2) {
+  display: none !important;
+}
+
+/* Hide research entry social share quick links */
+a[id^="share-link-"] {
   display: none !important;
 }
