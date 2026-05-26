@@ -1,6 +1,6 @@
 ---
 title: Optimizing Fireplace Control Workflows for Immediate Implementation in Recalled Residential Gas Fireplaces
-date:
+# date:
 links:
   - type: pdf
     url: 
