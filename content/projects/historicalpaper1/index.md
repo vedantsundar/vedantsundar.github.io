@@ -11,7 +11,7 @@ tags:
 ---
 “Do Not Burrow in Other People’s Yards!”
 
-Berg. Nicht in fremden Gӓrten wühlen! Illustration. April 25, 1956. Neues Deutschland. (Full citation on pg. 17, Appendix B, of full paper.)
+Berg. *Nicht in fremden Gӓrten wühlen!* Illustration. April 25, 1956. Neues Deutschland. (Full citation on pg. 17, Appendix B, of full paper.)
 
 This paper concerns Operation Gold, a Cold War-era American wiretapping operation that required a 1,476-foot tunnel to be constructed under Berlin, and its significance in history.
 
