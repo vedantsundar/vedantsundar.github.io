@@ -40,8 +40,8 @@ links:
   url: V.Sundar_FEM Analysis for UHDR (FLASH) Measurements and Absolute Dosimetry_Paper.pdf
 - type: poster
   url: V.Sundar_FEM Analysis for UHDR (FLASH) Measurements and Absolute Dosimetry_Poster.pdf
-- type: slides
-  url: V.Sundar_FEM Analysis for UHDR (FLASH) Measurements and Absolute Dosimetry_Talk_Slides.pdf
+# - type: slides
+#   url: V.Sundar_FEM Analysis for UHDR (FLASH) Measurements and Absolute Dosimetry_Talk_Slides.pdf
 - type: custom
   label: Visual Abstract
   url: V.Sundar_FEM Analysis for UHDR (FLASH) Measurements and Absolute Dosimetry_Visual Abstract.pdf
