@@ -1,5 +1,5 @@
 ---
-title: "The Fight for *Purna Swaraj*: How the Round Table Conferences Paved the Way for Indian Independence"
+title: "The Fight for Purna Swaraj: How the Round Table Conferences Paved the Way for Indian Independence"
 date: 2022-03-25
 weight: 4
 links:
