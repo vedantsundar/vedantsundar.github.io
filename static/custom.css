@@ -41,3 +41,9 @@ code, pre {
   font-size: 1.15rem;
   line-height: 1.6;
 }
+
+/* Hide the Hugo Blox footer CTA button while keeping the attribution text */
+a[data-hbx="poweredby_cta"] {
+  display: none !important;
+}
+

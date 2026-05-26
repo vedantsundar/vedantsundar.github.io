@@ -1,0 +1,10 @@
+/* Hide the Hugo Blox footer CTA button while keeping the attribution text */
+a[data-hbx="poweredby_cta"],
+a[href*="hugo.chat"] {
+  display: none !important;
+}
+
+/* Hide read time metadata in article headers when it is shown as a 0 min read badge */
+.text-gray-500.flex.items-center > span.mx-1:last-child {
+  display: none !important;
+}
