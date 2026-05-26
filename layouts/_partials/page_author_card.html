@@ -1,0 +1,64 @@
+{{ $profile := .profile }}
+{{ $page := .page }}
+{{ $avatar_shape := site.Params.hugoblox.layout.avatar_shape | default "circle" }}
+
+{{ if $profile }}
+  {{/* Force link to homepage for personal sites */}}
+  {{ $profile_url := site.BaseURL }}
+  {{ $avatar := $profile.avatar }}
+
+  <div class="flex items-center gap-4 pt-10 pb-6">
+    {{ if $avatar }}
+      {{ if not (reflect.IsImageResourceProcessable $avatar) }}
+        <img
+          class="h-20 w-20 {{ if ne $avatar_shape "square" }}rounded-full{{ end }}"
+          src="{{ $avatar.RelPermalink }}"
+          width="80"
+          height="80"
+          alt="{{ $profile.title }}"
+          loading="lazy"
+        />
+      {{ else }}
+        {{ $responsive := partial "functions/process_responsive_image.html" (dict
+            "image" $avatar
+            "mode" "fill"
+            "aspect_ratio" "1:1"
+            "anchor" "Center"
+            "sizes" (slice 80 160 240)
+        ) }}
+        <img
+          class="h-20 w-20 {{ if ne $avatar_shape "square" }}rounded-full{{ end }}"
+          srcset="{{ $responsive.srcset }}"
+          sizes="80px"
+          src="{{ $responsive.fallback.RelPermalink }}"
+          width="80"
+          height="80"
+          alt="{{ $profile.title }}"
+          loading="lazy"
+        />
+      {{ end }}
+    {{ end }}
+
+    <div>
+      <div class="font-semibold text-lg">
+        <a href="{{ $profile_url }}" class="no-underline text-current">{{ $profile.title }}</a>
+      </div>
+      {{ with $profile.affiliations }}
+      {{- if reflect.IsSlice . }}
+        {{- $first := index . 0 -}}
+        {{- $affOrg := $first.org -}}
+        {{- $affName := $first.name -}}
+        {{ if $affOrg }}
+          <div class="text-sm text-neutral-700 dark:text-neutral-300">{{ $affOrg }}</div>
+        {{ end }}
+        {{ if $affName }}
+          <div class="text-sm text-neutral-700 dark:text-neutral-300">{{ $affName }}</div>
+        {{ end }}
+      {{- else }}
+        <div class="text-sm text-neutral-700 dark:text-neutral-300">{{ . | markdownify | emojify }}</div>
+      {{- end -}}
+      {{ end }}
+    </div>
+  </div>
+
+{{ end }}
