@@ -17,6 +17,4 @@ The initial truth table will be derived from the Request For Proposal, and a cor
 The Fireplace Control Circuit implemented on the conventional protoboard with additional breadboards was 100% accurate throughout all trials and functioned with perfect precision. This design will increase consumer satisfaction, leading to decreasing residential gas fireplace accidents and increased profits for the Acme Fireplace Company upon commercial implementation. It is recommended that the client use the findings of this investigation to optimize the novel gas fireplace with the redesigned circuit.
 
 A full ANSI/NISO Z.39 (military-style) Technical Report is available upon request.
-
-This Independent Research Project was completed at home and at an Engineering Lab. My supervisor (of credentials USAF SQ/CC, but whom I will not name for privacy reasons) was generous enough in providing guidance and resources / materials needed for the investigation (*e*.*g*. a protoboard, Multisim simulation software access, etc).
 <!--more-->
