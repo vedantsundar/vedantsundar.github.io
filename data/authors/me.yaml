@@ -36,7 +36,7 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:vedantsundar1@gmail.com
+    url: mailto:vsundar@caltech.edu
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/vedantsundar/
@@ -48,7 +48,7 @@ links:
 experience:
   # - role: Teaching Assistant
   #   org: AwesomeMath Summer Program
-  #   start: 2025-06-20
+  #   start: 2025-06-08
   #   end: 2025-08-10
   #   summary: |
   #     Hosted problem-solving sessions every day as part of this intensive Mathematics Olympiad-training summer camp.
