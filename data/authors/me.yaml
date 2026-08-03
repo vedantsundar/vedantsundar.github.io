@@ -38,8 +38,8 @@ links:
   - icon: at-symbol
     url: mailto:vsundar@caltech.edu
     label: E-mail Me
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/in/vedantsundar/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/vedantsundar1
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/citations?user=example
   # - icon: academicons/orcid

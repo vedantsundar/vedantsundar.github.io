@@ -2,6 +2,9 @@
 title: "Curing Cancer in a FLASH: A Finite-Element Computational Analysis of an Ultrasonic Detection Array Setup for Ultra-High Dose Rate (FLASH) Measurements and Absolute Dosimetry"
 authors:
 - me
+advisor:
+  name: "Dr. Ronald E. Tosh"
+  institution: "National Institute of Standards and Technology"
 date: "2025-08-08T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
