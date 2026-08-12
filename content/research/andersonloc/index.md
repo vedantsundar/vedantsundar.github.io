@@ -2,9 +2,6 @@
 title: "Anderson Localization in Topologically Defective Ferrofluid Quasicrystals"
 authors:
 - me
-advisor:
-  name: "Dr. Arkadii Krokhin"
-  institution: "University of North Texas"
 date: "2024-07-15T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
