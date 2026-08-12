@@ -13,15 +13,15 @@ main:
   # - name: Talks
   #   url: talks/
   #   weight: 30
-  - name: Projects
-    url: projects/
-    weight: 30
+  # name: Projects
+  #  url: projects/
+  #  weight: 30
   # - name: Courses
   #   url: courses/
   #   weight: 30
   - name: Outreach
     url: outreach/
-    weight: 40
+    weight: 30
   - name: Hobbies
     url: hobbies/
-    weight: 50
+    weight: 40

@@ -21,10 +21,10 @@ bio: |
   real-time imaging of absorbed radiation dose, and the University of North Texas (UNT) on Anderson localization of acoustic waves in periodic structures with broken P-symmetry. 
   See my Research page for summaries of my work in these fields.
   
-  I'm also broadly interested in these fields' applications: see my Projects page for work in more applied contexts.
+  I'm also broadly interested in these fields' applications, and delve into applied contexts such as engineering or the history of mathematics.
   In my free time, I've done some teaching, which you can find on my Outreach page. And of course, see my Hobbies page for, well, my hobbies!
 
-  A full CV is available upon request at my institutional email. For any personal inquiries, feel free to reach out at vedantsundar1@gmail.com.
+  I can be reached at vsundar@caltech.edu, and a full CV is available upon request.
 
 
 
@@ -46,12 +46,12 @@ links:
     # url: https://orcid.org/0000-0002-1825-0097
 
 experience:
-  # - role: Teaching Assistant
-  #   org: AwesomeMath Summer Program
-  #   start: 2025-06-08
-  #   end: 2025-08-10
-  #   summary: |
-  #     Hosted problem-solving sessions every day as part of this intensive Mathematics Olympiad-training summer camp.
+   - role: Teaching Assistant
+     org: AwesomeMath Summer Program
+     start: 2025-06-08
+     end: 2025-08-10
+     summary: |
+       I hosted daily problem-solving sessions and semiweekly office hours in olympiad geometry as part of this intensive Mathematics Olympiad-training summer camp.
   - role: Head MathCounts Coach
     org: |
       Otto Middle School  
