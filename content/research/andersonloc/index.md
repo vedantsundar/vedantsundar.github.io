@@ -1,5 +1,5 @@
 ---
-title: "Anderson Localization in Topologically Defective Ferrofluid Quasicrystals"
+title: "Anderson Localization in Topologically Defective Ferrofluid Superlattices"
 authors:
 - me
 date: "2024-07-15T00:00:00Z"
