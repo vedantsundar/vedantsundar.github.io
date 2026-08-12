@@ -1,5 +1,5 @@
 ---
-title: "Anderson Localization in a Ferrofluidic Waveguide System with a Topological Defect"
+title: "Anderson Localization in Topologically Defective Ferrofluid Quasicrystals"
 authors:
 - me
 advisor:
@@ -31,7 +31,7 @@ tags:
 - Condensed Matter Physics
 - Computational Physics
 
-featured: true
+featured: false
 
 hugoblox:
   ids:

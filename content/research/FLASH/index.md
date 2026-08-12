@@ -1,5 +1,5 @@
 ---
-title: "Curing Cancer in a FLASH: A Finite-Element Computational Analysis of an Ultrasonic Detection Array Setup for Ultra-High Dose Rate (FLASH) Measurements and Absolute Dosimetry"
+title: "Finite-Element Computational Analysis of an Ultrasonic Detection Array Setup for Ultra-High Dose Rate (FLASH) Measurements and Absolute Dosimetry"
 authors:
 - me
 advisor:
@@ -32,7 +32,7 @@ tags:
 - Dosimetry
 - Computational Physics
 
-featured: true
+featured: false
 
 hugoblox:
   ids:
