@@ -28,8 +28,6 @@ abstract: |
 summary: This investigation aims to use a Finite-Element Method (FEM) analysis to show projected degrees of Anderson localization in ultrasonic isolation chambers.
 
 tags:
-- Condensed Matter Physics
-- Computational Physics
 
 featured: false
 

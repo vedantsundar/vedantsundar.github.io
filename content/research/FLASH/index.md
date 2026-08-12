@@ -28,9 +28,6 @@ abstract: |
 summary: This investigation aims to use a Finite-Element Method (FEM) analysis to develop a primary standard for Absolute Dosimetry and technology for real-time imaging of absorbed radiation dose.
 
 tags:
-- Radiation Physics
-- Dosimetry
-- Computational Physics
 
 featured: false
 
