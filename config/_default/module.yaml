@@ -11,8 +11,8 @@ imports:
 module:
   noVendor: true
   disable:
-    - github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/assets/media
-    - github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/layouts/partials/head/icons.html
+    - github.com/HugoBlox/kit/modules/blox-bootstrap/assets/media
+    - github.com/HugoBlox/kit/modules/blox-bootstrap/layouts/partials/head/icons.html
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
