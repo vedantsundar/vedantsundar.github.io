@@ -19,7 +19,7 @@ publication_short: ""
 abstract: |
   We further investigate ultrasound isolation in a waveguide, previously realized by magnetic fields arranging ferrofluid particles into a superlattice by A. Krokhin et al. We introduce randomness in the periodicity of external magnetic fields to trigger Anderson localization effects on an ultrasonic pulse, and provide numerical approximations of localization degree in acoustic (Pa) and sound (dB) pressures.
 
-  Full paper / poster / talk slides available upon request.
+  Full paper / poster / talk slides available upon request. Supported by NSF EFRI grant No.1741677; internally published
 
 # Summary. An optional shortened abstract.
 summary: This investigation aims to use a Finite-Element Method (FEM) analysis to show projected degrees of Anderson localization in ultrasonic isolation chambers.

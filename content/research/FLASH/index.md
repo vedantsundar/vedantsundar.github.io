@@ -17,9 +17,9 @@ publication: ""
 publication_short: ""
 
 abstract: |
-  FLASH Radiotherapy is a promising ultra-high dose rate radiation therapy modality that minimizes irradiation damage to healthy tissue surrounding a tumor. However, existing radiation dose imaging technology using thermistors cannot determine, with significant precision and millisecond-regime time delays, whether a surface dose achieved FLASH-level dose rates. An ultrasonic detection array setup proposed by NIST aims to solve this problem using ultrasonic phase modulation, and we conduct a Finite-Element Method (FEM) analysis of a complete thermoacoustic model to confirm the requisite phase modulation of the ultrasonic signal for radiation calorimetry and high-precision FLASH measurements.\
+  FLASH Radiotherapy is a promising ultra-high dose rate radiation therapy modality that minimizes irradiation damage to healthy tissue surrounding a tumor. However, existing radiation dose imaging technology using thermistors cannot determine, with significant precision and millisecond-regime time delays, whether a surface dose achieved FLASH-level dose rates. An ultrasonic detection array setup proposed by NIST aims to solve this problem using ultrasonic phase modulation, and we conduct a Finite-Element Method (FEM) analysis of a complete thermoacoustic model to confirm the requisite phase modulation of the ultrasonic signal for radiation calorimetry and high-precision FLASH measurements.<br><br>
 
-  Full paper / poster / talk slides / visual abstract available upon request. See session MO-835-204 ("Ultrasonic Detection of Flash-Level Dose Pulses from a Medical Linac") at the American Association of Physicists in Medicine (AAPM) 67th Annual Meeting and Exhibition for further information.
+  Full paper / poster / talk slides / visual abstract available upon request. See session MO-835-204 ("Ultrasonic Detection of Flash-Level Dose Pulses from a Medical Linac") at the American Association of Physicists in Medicine (AAPM) 67th Annual Meeting and Exhibition for further details.
 
 # Summary. An optional shortened abstract.
 summary: This investigation aims to use a Finite-Element Method (FEM) analysis to develop a primary standard for Absolute Dosimetry and technology for real-time imaging of absorbed radiation dose.
